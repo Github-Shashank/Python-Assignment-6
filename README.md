@@ -1,4 +1,4 @@
-# 🐍 Assignment 5: Python Programs
+# 🐍 Assignment 6: Python Programs
 # 📖 Module 10,11: Calculator using Tkinter
 
 This repository contains solutions for **Assignment 6**, consisting of a beginner-level Python programm. The aim is to run calculator using inbuilt module tkinter. It can raise warning while attempt to divide by zero via messagebox.showwarning.
